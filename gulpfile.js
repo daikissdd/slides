@@ -1,5 +1,6 @@
 var gulp = require('gulp'),
 	_ = require('underscore'),
+	argv = require('yargs').argv,
 	concat = require('gulp-concat'),
 	uglify = require('gulp-uglify'),
 	minifyCss = require('gulp-minify-css'),
@@ -15,11 +16,9 @@ gulp.task('git', shell.task([
 	'git push origin gh-pages'
 ]));
 
-gulp.task('new', shell.task([
-	'git add -A',
-	'git commit -m"build_update"',
-	'git push origin gh-pages'
-]));
+gulp.task('new', function() {
+	if (_.isUndefined(argv.t)) return console.log(' [Fail Task] gulp task new --t %titlename%');
+});
 
 gulp.task('default', function() {
 	

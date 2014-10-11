@@ -4,7 +4,7 @@
 
 ## core
 
----
+- - -
 
 - internet
 - app
@@ -22,9 +22,11 @@
 - history
 - like
 
+---
+
 ## Name
 
-***
+- - -
 
 - oio
 - launch
@@ -77,7 +79,7 @@
 
 ## Tagline
 
-***
+- - -
 
 - oio
 
@@ -85,7 +87,7 @@
 
 ## Must do task
 
-***
+- - -
 
 - oio
 
@@ -93,8 +95,10 @@
 
 ## Ideas
 
-***
+- - -
 
 - oio
 
 ---
+
+## END
