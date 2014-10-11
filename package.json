@@ -1,0 +1,34 @@
+{
+  "name": "wall",
+  "version": "0.0.0",
+  "description": "wall is cloud link list wab app",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daikissdd/wall.git"
+  },
+  "keywords": [
+    "wab"
+  ],
+  "author": "daikissdd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daikissdd/wall/issues"
+  },
+  "homepage": "https://github.com/daikissdd/wall",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-concat": "2.2.0",
+    "gulp-imagemin": "0.6.1",
+    "gulp-minify-css": "0.3.4",
+    "gulp-minify-html": "^0.1.6",
+    "gulp-replace": "^0.4.0",
+    "gulp-uglify": "0.3.0"
+  }
+}

@@ -1,6 +1,5 @@
+node_modules
 .DS_Store
-.svn
-log/*.log
-tmp/**
-node_modules/
+.tmp
 .sass-cache
+font-awesome
