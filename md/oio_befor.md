@@ -14,6 +14,7 @@
 - cloud
 - relation
 - me
+- auto
 - collect
 - use
 - api
@@ -21,6 +22,24 @@
 - app is objects
 - history
 - like
+- spotlight
+- alfred
+
+---
+
+# ネーミング
+
+- - -
+
+- １単語か２単語にする
+- それが何者か連想できるようにする
+- 印象を考える
+
+- - -
+
+# Most core
+
+- 自動的にあなたのwebでの行動を監視して履歴に残す
 
 ---
 
@@ -43,6 +62,7 @@
 - mymark
 - goodmark
 - linkmark
+- likepool
 
 - - -
 
@@ -61,6 +81,9 @@
 - oioos
 - oiopad
 - oios
+- afterstory
+- scar
+- histori.am
 
 - - -
 
@@ -76,6 +99,8 @@
 - colect
 - collect
 - appcolect
+- goodsufer
+- manish
 
 - - -
 
@@ -83,6 +108,38 @@
 - likecollect
 - likemark
 - doyoulike
+- ionion.com
+- ouion.com
+- oniown.com
+- theoio.com
+- likePocket
+- magicalPocket
+- anker
+- pipe
+- pipel
+- myIsam
+- piper
+- chine
+- chailin
+- dynaloog
+- dynalog
+- uunaloog
+- urena
+- ugrena
+- ugrena
+- loog
+- ustory
+- uFeed
+- lipe
+- rihu
+- huu
+- urena
+- asuna
+- yui
+- dotmatic
+- dotHuman
+- Alfa
+- historiam
 
 ---
 
@@ -194,4 +251,4 @@ WEBバージョンのホーム画面を目指しました。
 
 ---
 
-## END
+## ***fin***
